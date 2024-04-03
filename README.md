@@ -53,10 +53,11 @@ Este projeto aborda a emocionante tarefa de transformar um laptop Lenovo Ideapad
 
 O Lenovo Ideapad 3i, originalmente projetado para sistemas Windows, foi transformado com sucesso em um Hackintosh, permitindo aos usuários desfrutar do ecossistema macOS em uma máquina não Apple. O projeto envolveu a superação de desafios relacionados à compatibilidade de hardware e à instalação personalizada do macOS.
 
+![Image of Lenovo Ideapad 3i](https://7migliortech.com/img/le-8-migliori-notebook-per-hackintosh-1-.jpg)
+
 **Características principais**
 
 * **Compatibilidade de hardware:** Abordou-se a compatibilidade de componentes específicos do Ideapad 3i com o macOS, garantindo que o sistema reconhecesse e utilizasse eficientemente todos os recursos disponíveis.
-![Image of Lenovo Ideapad 3i](https://7migliortech.com/img/le-8-migliori-notebook-per-hackintosh-1-.jpg)
 * **Instalação personalizada:** Desenvolveu-se um processo de instalação personalizado, incluindo configurações específicas do bootloader, drivers e patches necessários para otimizar o desempenho e a estabilidade.
 * **Resolução de problemas:** Identificou-se e resolveu-se problemas comuns encontrados ao executar o macOS em hardware não Apple, oferecendo uma solução estável e funcional.
 * **Documentação detalhada:** Fornecida uma documentação abrangente que descreve o passo a passo do processo de transformação do Ideapad 3i em um Hackintosh, permitindo que outros usuários repliquem o procedimento.
@@ -79,10 +80,11 @@ Este projeto visa implementar um sistema de gestão personalizado utilizando a p
 
 A loja de conserto de telefones busca uma solução eficiente para gerenciar suas operações diárias, desde o atendimento ao cliente até o controle de estoque e o acompanhamento das ordens de serviço. O sistema utilizará o Mapos como base, sendo customizado para atender aos requisitos únicos da loja.
 
+![Image of Sistema de Gestão para Loja de Conserto de Telefones](https://raw.githubusercontent.com/RamonSilva20/mapos/master/docs/dashboard.png)
+
 **Funcionalidades principais**
 
 * **Gestão de clientes:** Cadastro e acompanhamento de clientes, histórico de serviços prestados e informações de contato.
-![Image of Sistema de Gestão para Loja de Conserto de Telefones](https://raw.githubusercontent.com/RamonSilva20/mapos/master/docs/dashboard.png)
 * **Ordens de serviço:** Criação e rastreamento de ordens de serviço, incluindo status, peças utilizadas e histórico de reparos.
 * **Inventário de peças:** Controle de estoque de peças e acessórios, incluindo alertas de reabastecimento e relatórios de movimentação.
 * **Agendamento:** Capacidade de agendar reparos, proporcionando uma melhor organização do fluxo de trabalho.
