@@ -126,7 +126,8 @@ A solução oferece uma maneira simplificada e eficaz de integrar sistemas com a
 ### 4. [buzzFeed](https://github.com/MayDayCaio/buzzFeed-angular)
 
 # Projeto do curso "Criando um Clone do BuzzFeed com Angular" da DIO.
-## Descrição
+
+**Descrição**
 
 Este projeto é uma recriação do famoso site BuzzFeed, utilizando o framework Angular. O objetivo principal é demonstrar minhas habilidades de desenvolvimento web front-end, bem como minha capacidade de criar interfaces de usuário interativas e atraentes.
 
