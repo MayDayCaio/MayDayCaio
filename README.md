@@ -25,7 +25,7 @@
  
 <br>
  
-### Para mais contatos me segue nas redes abaixo!
+### Para mais contato me segue nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/mayday_caio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
