@@ -1,7 +1,5 @@
-# [Caio Silva] - Portfólio
-
 # Bem-vindo(a) ao perfil do Caio Silva.
-###  Estudante de Desenvolvimento Mobile, estudante para Desenvolvimento BackEnd!
+###  Estudante de Desenvolvimento Mobile, estudante para Desenvolvimento BackEnd e Automação!
 
  <div>
    <a href="https://github.com/MayDayCaio">
@@ -21,7 +19,8 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"" />
- 
+  <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+          
 </div>
  
 <br>
