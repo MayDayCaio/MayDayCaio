@@ -1,5 +1,5 @@
 # Bem-vindo(a) ao perfil do Caio Silva.
-###  Estudante de Desenvolvimento Mobile, estudando para Desenvolvimento BackEnd e Automação!
+###  Estudante de Desenvolvimento Mobile, estudando para Desenvolvimento Mobile (iOS) e Automação!
 
  <div>
    <a href="https://github.com/MayDayCaio">
