@@ -125,31 +125,3 @@ Desenvolvimento de funcionalidades principais, documentação e exemplos de uso,
 **Resultados:**
 A solução oferece uma maneira simplificada e eficaz de integrar sistemas com a API para NFe da NS Tecnologia, agilizando processos de emissão, cancelamento e correção de notas fiscais eletrônicas. A documentação clara e os exemplos de uso fornecem suporte para uma integração rápida e sem complicações.
 
-### 4. [buzzFeed](https://github.com/MayDayCaio/buzzFeed-angular)
-
-# Projeto do curso "Criando um Clone do BuzzFeed com Angular" da DIO.
-
-**Descrição**
-
-Este projeto é uma recriação do famoso site BuzzFeed, utilizando o framework Angular. O objetivo principal é demonstrar minhas habilidades de desenvolvimento web front-end, bem como minha capacidade de criar interfaces de usuário interativas e atraentes.
-
-![Preview](https://github.com/MayDayCaio/buzzFeed-angular/raw/main/src/assets/images/preview.jfif)
-
-### Recursos Principais
-
-* **Interface Responsiva**: O site é projetado para ser totalmente responsivo, garantindo uma experiência consistente em dispositivos móveis, tablets e desktops.
-* **Componentização Angular**: A aplicação é estruturada em componentes reutilizáveis, seguindo as práticas recomendadas do Angular para uma arquitetura limpa e escalável.
-* **Integração de API**: Utiliza-se APIs para obter dados dinâmicos, permitindo a exibição de conteúdo atualizado e diversificado.
-* **Funcionalidades Interativas**: Implementação de funcionalidades interativas, como quizzes, enquetes e listas de artigos, para proporcionar uma experiência envolvente ao usuário.
-* **Estilo Personalizado**: Utilização de CSS e/ou bibliotecas de estilo para criar um design atraente e moderno, inspirado no estilo característico do BuzzFeed.
-
-### Tecnologias Utilizadas
-
-- Angular
-- HTML5
-- CSS3
-- JavaScript
-- APIs externas (para obtenção de dados dinâmicos, como notícias, quizzes, etc.)
-
-Este projeto é uma oportunidade para demonstrar meu domínio das tecnologias front-end, minha capacidade de criar aplicações web complexas e minha atenção aos detalhes de design e usabilidade. O código-fonte está disponível no GitHub para revisão e pode ser acessado para fins de aprendizado, colaboração ou simplesmente para avaliação do meu trabalho.
-
