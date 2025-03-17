@@ -3,8 +3,7 @@
 
  <div>
    <a href="https://github.com/MayDayCaio">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaydayCaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaydayCaio&layout=compact&langs_count=6&theme=dracula"/>
+   <img height="360em" src="https://github-readme-stats.vercel.app/api?username=MaydayCaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -96,31 +95,3 @@ A loja de conserto de telefones busca uma solução eficiente para gerenciar sua
 Ao finalizar este projeto, a loja de conserto de telefones terá uma solução de gestão totalmente integrada, simplificando processos, melhorando a eficiência operacional e proporcionando uma experiência aprimorada para clientes e funcionários. A customização do Mapos atenderá às necessidades específicas da loja, garantindo uma implementação eficaz e adaptada ao ambiente de negócios.
 
 Este projeto destaca a capacidade de utilizar plataformas existentes e adaptá-las para atender a requisitos específicos, demonstrando a flexibilidade de uso de projetos.
-
-### 3. [Emissor NFe](https://github.com/MayDayCaio/Emissor-NFe)
-
-# Sistema de emissão de notas fisca eletrônica 
-
-Descrição:
-Desenvolvimento de uma solução de integração com a API para emissão de Nota Fiscal Eletrônica (NFe) da NS Tecnologia. A biblioteca ns-nfe-node permite comunicação fácil e eficiente com a API, facilitando a emissão, cancelamento, carta de correção e inutilização de numeração de NFe, além de fornecer utilitários para consultas e operações adicionais.
-
-Funcionalidades Destacadas:
-
-* **Emissão de NFe:** Integração simplificada para emissão de NFe, com suporte para ambiente de produção e homologação.
-* **Cancelamento de NFe:** Facilidade na realização de cancelamentos de NFe, com opção de exibição do PDF do evento.
-* **Carta de Correção:** Envio de correções para NFe de forma rápida e eficiente.
-* **Inutilização de Numeração:** Implementação simplificada para inutilização de numeração de NFe.
-* **Utilitários:** Acesso a uma variedade de utilitários para consultas e operações complementares relacionadas à NFe.
-  
-**Tecnologias Utilizadas:**
-
-* Node.js 
-* JavaScript 
-* npm (Node Package Manager)
-
-**Contribuição:**
-Desenvolvimento de funcionalidades principais, documentação e exemplos de uso, além de garantir a integração adequada com a API da NS Tecnologia.
-
-**Resultados:**
-A solução oferece uma maneira simplificada e eficaz de integrar sistemas com a API para NFe da NS Tecnologia, agilizando processos de emissão, cancelamento e correção de notas fiscais eletrônicas. A documentação clara e os exemplos de uso fornecem suporte para uma integração rápida e sem complicações.
-
